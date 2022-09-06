@@ -1,0 +1,29 @@
+input{
+
+    width: 500px;
+    height: 30px;
+    border: none;
+    background-color: white;
+    margin-top: 15px;
+    font-family:  sans-serif;
+
+}
+
+select{
+
+    width: 500px;
+    height: 30px;
+    border: none;
+    background-color: white;
+    margin-top: 15px;
+}
+
+#btn{
+
+    margin-left: 50px; 
+    margin-top: 15px;
+    height: 28px;
+    width: 200px;
+
+
+}
